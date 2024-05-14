@@ -15,3 +15,4 @@ Creditos das imagens utilizadas
 <a href="https://www.flaticon.com/br/icones-gratis/manteiga-de-amendoim" title="manteiga de amendoim ícones">Manteiga de amendoim ícones criados por Freepik - Flaticon</a>
 <a href="https://www.flaticon.com/br/icones-gratis/noz" title="noz ícones">Noz ícones criados por monkik - Flaticon</a>
 <a href="https://www.flaticon.com/br/icones-gratis/nutella" title="nutella ícones">Nutella ícones criados por Mehwish - Flaticon</a>
+<a href="https://www.flaticon.com/br/icones-gratis/verificado" title="verificado ícones">Verificado ícones criados por Freepik - Flaticon</a>
